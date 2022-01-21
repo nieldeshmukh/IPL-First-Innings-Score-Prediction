@@ -1,4 +1,4 @@
-![FISP](IPL_1st_Innings_score.png)
+![FISP](IPL_1st_Innings_score.jpg)
 ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ## Project Overview
